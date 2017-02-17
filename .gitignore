@@ -1,0 +1,6 @@
+*.doc
+*.docx
+*.txt
+corpus.*
+.ipynb*
+__pycache__
